@@ -1,7 +1,6 @@
 - 👋 Hi, I’m RISHAV RAJ
-- 👀 I’m interested in ANALYST PROFILE INCLINED TOWARD MACHINE LEARNING,AI,ANALYTICS
-- 🌱 I’m currently learning DATABASE
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full stack dot net developer
+- 🌱 I’m currently improving my knowledge on backend part
 - 📫 How to reach me MAIL ID RAJRISHAV839@GMAIL.COM
 
 <!---
