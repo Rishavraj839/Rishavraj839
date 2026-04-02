@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RISHAV RAJ
-- 👀 I’m interested in Full stack dot net developer
+- 👀 I’m interested in Full stack AI Engineer Role
 - 🌱 I’m currently improving my knowledge on backend part
 - 📫 How to reach me MAIL ID RAJRISHAV839@GMAIL.COM
 
